@@ -8,7 +8,7 @@ pkg upgrade
 
 pkg install git
 
-git clone https://github.com/LimoncitoSum/botcito.git
+git clone https://github.com/LimoncitoSum/toxic.git
 
 cd toxic
 
